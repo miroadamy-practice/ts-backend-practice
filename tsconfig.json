@@ -6,6 +6,7 @@
         "module": "commonjs",
         "rootDir": "src",
         "outDir": "dist", 
+        "sourceMap": true,
         "noImplicitAny": true,
         "noImplicitThis": true,
         "strictNullChecks": true,
